@@ -1,6 +1,8 @@
 import React from 'react';
 // STYLES
 import { GlobalStyles } from './styles/globalStyles';
+// COMPONENTS
+import {} from './components';
 
 function App() {
   return (
