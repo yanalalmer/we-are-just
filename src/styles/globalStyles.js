@@ -47,7 +47,6 @@ export const GlobalStyles = createGlobalStyle`
         border-spacing: 0;
     }
     body {
-        
         color: ${variables.colors.black};
         font-family: 'Montserrat', sans-serif;
         letter-spacing: .6px;
