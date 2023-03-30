@@ -2,7 +2,7 @@ import React from 'react';
 // STYLES
 import { GlobalStyles } from './styles/globalStyles';
 // COMPONENTS
-import { Header, Hero, Quotes } from './components';
+import { Calendar, Header, Hero, Quotes } from './components';
 
 function App() {
   return (
@@ -11,6 +11,7 @@ function App() {
       <Header />
       <Hero />
       <Quotes />
+      <Calendar />
     </>
   );
 }
